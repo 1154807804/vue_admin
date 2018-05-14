@@ -1,0 +1,4 @@
+veri 获取验证码
+checkveri  校验验证码   veri
+login  登录   userName    passwprd
+returninfo  获取用户登录成功后返回信息
